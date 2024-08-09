@@ -1,0 +1,69 @@
+table{
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+#abc{
+    font-size: 30px;
+    background-color: rgb(61, 42, 165);
+     color: white;
+    }
+    #abc:hover{
+        color: blue;
+        border: 1px solid red;
+        background: red;
+        border-radius: 5px;
+        transition: .5s;
+    }
+    #e{
+        font-size: large;
+        background-color: aqua;
+        color: red;
+    }
+    #e:hover{
+        color: floralwhite;
+        background-color: darkgoldenrod;
+        transition: .5s;
+    }
+    .q{
+        background-color: yellow;
+    }
+    .q:hover{
+        color: wheat;
+        border: 1px solid red;
+        background: purple;
+        border-radius: 5px;
+        transition: .5s;
+    }
+    .w{
+        background-color: chartreuse;
+    }
+    .w:hover{
+        color: white;
+        background-color: hotpink;
+        transition: .5s;
+    }
+    .x{
+        background-color: yellowgreen;
+    }
+    .x:hover{
+        color:darkblue;
+        background-color: skyblue;
+        transition: .5s;
+    }
+    #z{
+        color: aliceblue;
+        background-color: red;
+    }
+    #z:hover{
+        color: red;
+        background-color: wheat;
+        transition: .5s;
+    }
+    #y{
+        background-color: blue;
+    }
+    #y:hover{
+        color: red;
+        background-color: rgb(217, 255, 0);
+        transition: .5s;
+    }
